@@ -1,0 +1,4 @@
+﻿  CrackMe.cpp
+c:\users\pc\documents\visual studio 2015\projects\crackme\crackme\crackme.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CrackMe.vcxproj -> C:\Users\pc\documents\visual studio 2015\Projects\CrackMe\Debug\CrackMe.exe
+  CrackMe.vcxproj -> C:\Users\pc\documents\visual studio 2015\Projects\CrackMe\Debug\CrackMe.pdb (Full PDB)
